@@ -10,12 +10,11 @@ We created a list of english words by selecting the key word of the JSON file of
 We search each word on the English-to-Greek Word Search of the [Perseus Project](http://www.perseus.tufts.edu/hopper/definitionlookup?redirect=true&lang=greek). On the basis of the result we selected each greek work which has the english word in its Short Definition. As the encodage of this dictionary is aproximative (for example the Greek word πατήρ has "pitṛ[snull ]u" as Short Definition), we also selected all results attested between 2000 and 100000 occurences. These values can me change through the respective constants `occur_min` and `occur_max`.  
 
 
-Install requirements
+## Install requirements
 `pip install -r requirements.txt`
 
-Launch the script
+## Launch the script
 `python3 main.py`
-
 
 
 
