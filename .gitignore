@@ -1,10 +1,13 @@
+
+
 /gui/nbproject/private/
 build/
 dist/
 .checkpatch.conf
 scripts/spelling.txt
 
-
+#private directory
+private
 
 # File used to pass the private key between the Jenkins host and the build container.
 /cip/id_rsa
