@@ -1,6 +1,6 @@
 # Greek Synonymous Parser
 
-This python script aims to create a dictionary of Greek synonymous word based on retroningeenering. It is not perfect, but it has the merit to exist.
+This python script aims to create a dictionary of Greek synonymous (or semantic constellations) based on retroversion. It is not perfect, but it has the merit to exist.
 
 ## Method
 ### 1. Creation of a list of english words
